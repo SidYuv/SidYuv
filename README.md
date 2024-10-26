@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SidYuv
+- 👋 Hi, I’m @Siddharth
 - 👀 I’m interested in Data Ebgineering
 - 🌱 I’m currently learning Airflow
 - 📫 How to reach me siddharth.darnal@yahoo.com
