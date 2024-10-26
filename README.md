@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SidYuv
+- 👀 I’m interested in Data Ebgineering
+- 🌱 I’m currently learning Airflow
+- 📫 How to reach me siddharth.darnal@yahoo.com
+- 😄 Pronouns: He
